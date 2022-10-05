@@ -2,8 +2,11 @@
 
 
 - 🎓 UC Davis and Hack Reactor graduate
+- 😄 Full Stack Software Engineer
 - 📍 Based in Bay Area, CA
-- 😄 Pronouns: he/him/his
+- 💪 Always looking for new oppurtunites 
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngophanthinh/)
+
 
 ### Technology Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -36,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
