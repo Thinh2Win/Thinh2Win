@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400" src="/Users/Thinh2Win/Pictures/banner.png">
+
 
 ### Hello there! I'm Thinh Ngo Phan👋
 
