@@ -1,5 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://wallpapers.com/wallpapers/lofi-music-online-music-wallpaper-wallpaperengine-9s32k5wtasauwsdw.html?embed=true">
 ### Hello there! I'm Thinh Ngo Phan👋
+
+<img align="right" alt="Coding" width="400" src="https://wallpapers.com/wallpapers/lofi-music-online-music-wallpaper-wallpaperengine-9s32k5wtasauwsdw.html?embed=true">
+
 
 - 🎓 UC Davis and Hack Reactor graduate
 - 📍 Based in Bay Area, CA
