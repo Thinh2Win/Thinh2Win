@@ -1,4 +1,4 @@
-<img src="/Users/Thinh2Win/Pictures/banner.png" alt="profile banner" title="Banner">
+<img src="https://wallpapers.com/wallpapers/chill-lofi-moving-on-b8nylv5dk851rshh.html" alt="profile banner" title="Banner">
 
 ### Hello there! I'm Thinh Ngo Phan👋
 
