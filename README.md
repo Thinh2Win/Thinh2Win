@@ -1,7 +1,5 @@
 <img src="./banner.png" alt="profile banner" title="Banner">
 
-### Hello there! I'm Thinh Ngo Phan👋
-
 
 - 🎓 UC Davis and Hack Reactor graduate
 - 📍 Based in Bay Area, CA
