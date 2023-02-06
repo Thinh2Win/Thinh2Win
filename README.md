@@ -4,7 +4,7 @@
 - 🎓 UC Davis and Hack Reactor graduate
 - 😄 Full Stack Software Engineer
 - 📍 Based in Bay Area, CA
-- 💪 Always looking for new oppurtunites 
+- 💪 Always looking for new opportunities
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngophanthinh/)
 
 
