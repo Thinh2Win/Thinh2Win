@@ -24,7 +24,6 @@ I'm a **Full Stack Software Engineer** specializing in **healthcare applications
 - **AI-First Development**: Expert in Claude Code, Cursor IDE, and prompt engineering
 - **Healthcare AI Pioneer**: FHIR-based AI workflows and clinical decision support systems
 - **Security & Compliance**: HIPAA, HITRUST, SMART on FHIR expertise
-- **Proven Impact**: 66% efficiency gains, 30% performance improvements, 20B+ records managed
 
 ---
 
