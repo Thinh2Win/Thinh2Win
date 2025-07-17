@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+###  **Striving to bridge the gap between Healthcare and Technology**
+
   ```ascii
   ╔════════════════════════════════════════════════════════════════════╗
   ║  🤖 AI-Powered Healthcare Engineer  •  🚀 Full Stack Developer    ║
@@ -78,14 +80,3 @@ I'm a **Full Stack Software Engineer** specializing in **healthcare applications
 - 🚀 **Performance**: Vector databases for semantic search in healthcare apps
 
 ---
-
-<div align="center">
-
-### 🎯 **"Striving to bridge the gap between Healthcare and Technology"**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ngophanthinh/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ngophanthinh@gmail.com)
-
----
-
-</div>
